@@ -1,2 +1,5 @@
-How to clone and make to my local desk
-e
+wasacaca
+ui
+i
+oo
+i
