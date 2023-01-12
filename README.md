@@ -1,2 +1,1 @@
-# PrepCourse-Kawa
-module2test
+How to clone and make to my local desk
